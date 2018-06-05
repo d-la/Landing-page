@@ -1,0 +1,25 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "CSS3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-la/Landing-page.git"
+  },
+  "author": "Daniel La",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-la/Landing-page/issues"
+  },
+  "homepage": "https://github.com/d-la/Landing-page#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
