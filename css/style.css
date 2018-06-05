@@ -182,3 +182,15 @@ body{
 .btn--animated{
   animation: moveInBottom 1.5s ease-out;
 }
+
+.section{
+  position: relative;
+  width: 100%;
+  display: block;
+  padding: 2rem;
+  margin: 1rem;
+}
+
+.section--white{
+  background: #fff;
+}
