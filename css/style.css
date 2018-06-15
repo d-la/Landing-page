@@ -216,7 +216,6 @@ body {
   position: relative;
   height: 52rem; }
   .card__side {
-    background-color: orangered;
     color: #FFF;
     font-size: 2rem;
     height: 52rem;
@@ -276,7 +275,8 @@ body {
       .card__details ul li {
         text-align: center;
         font-size: 1.5rem;
-        padding: 1rem; }
+        padding: 1rem;
+        color: #777; }
         .card__details ul li:not(:last-child) {
           border-bottom: 1px solid #eee; }
 
