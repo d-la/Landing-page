@@ -5,7 +5,7 @@
   height: 52rem;
 
   &__side{
-    background-color: orangered;
+    // background-color: orangered;
     color: $color-white;
     font-size: 2rem;
 
@@ -114,6 +114,7 @@
         text-align: center;
         font-size: 1.5rem;
         padding: 1rem;
+        color: #777;
         
         &:not(:last-child){
           border-bottom: 1px solid #eee;
